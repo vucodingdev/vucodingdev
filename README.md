@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vucodingdev
 - 👀 I’m interested in coding, teaching and running
-- 🌱 I’m currently learning java programming language
+- 🌱 I'm currently learning web programming with Java, NodeJS, ReactJS, Angular
 - 💞️ I’m looking to collaborate on VU School
 - 📫 Reach me at vucoding.dev@gmail.com
